@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+            div h1{
+                color: blue;
+            }
+            div+h1{
+                color: red;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1> this is sample </h1>
+            <h1> this is sample </h1>
+        </div>
+        <h1> this is sample </h1>
+        <h1> this is sample </h1>
+    </body>
+</html>
