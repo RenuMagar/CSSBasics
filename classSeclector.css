@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+            .first{
+                color:red;
+                background-color: yellow;
+            }
+            .secound{
+                color:yellow;
+                background-color:red;
+            }
+        </style>
+    </head>
+    <body>
+        <p class="first">this is sammple text<p>
+        <p class="secound"> this is sammple text<p>
+        <p class="first"> this is sammple text<p>
+        <p class="secound"> this is sammple text<p>
+        <p class="first"> this is sammple text<p>
+    </body>
+</html>
